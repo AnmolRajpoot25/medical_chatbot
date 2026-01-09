@@ -1,0 +1,8 @@
+ctransformers==0.2.27
+langchain==0.0.225
+sentence-transformers==2.2.2
+huggingface_hub==0.14.1
+flask
+pypdf
+python-dotenv
+torch
