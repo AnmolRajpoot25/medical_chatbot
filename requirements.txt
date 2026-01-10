@@ -6,4 +6,4 @@ Flask==2.2.5
 pypdf
 python-dotenv
 torch
-faiss-cpu==1.7.3
+faiss-cpu
